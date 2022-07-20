@@ -1,5 +1,5 @@
 # FydeOS for You overlays
-_Building artefacts of FydeOS for You_
+_Build artefacts of FydeOS for You_
 
 <br>
 
